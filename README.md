@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yassine Boufnichel, I'm a softwzre engineer student.
+- 👋 Hi, I’m Yassine Boufnichel, I'm a software engineer student.
 - 👀 I’m interested in web developement and gaphic design
 - 🌱 I’m currently learning Adobe photoshop and web technologies
 - 💞️ I’m looking to collaborate on building some projects
