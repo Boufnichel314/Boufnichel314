@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Yassine Boufnichel, I'm a software engineer student.
+- 👋 Hi, I’m Yassine Boufnichel, I'm a computer science engineer student.
 - 👀 I’m interested in devops and web developement
-- 🌱 I’m currently learning web technologies
 - 💞️ I’m looking to collaborate on building some projects
